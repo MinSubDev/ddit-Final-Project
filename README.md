@@ -47,9 +47,9 @@
 
 ## 📊 ERD Design
 
-<img src="./image.png" alt="ERD 디자인" width="80%">
+<img src=""C:\Users\sub75\Desktop\대덕인재개발원\최프\ERD.png"/image.png" alt="ERD 디자인" width="80%">
 
 
 
 
-🔹 테이블 개수 : 총 74개
+🔹 테이블 개수 : 총 60개
