@@ -3,6 +3,8 @@
 ## Final Project in DDIT  【 Project Mapper (프로젝트 관리 시스템) 】 Introduction 
 
 🔸 ‘Project Mapper’는 프로젝트 관리, 탐색, 아웃소싱 기능을 제공하는 통합서비스입니다. 이 서비스는 단순히 프로젝트를 관리하는 것을 넘어, 다양한 분야에서 프로젝트에 참여하고 싶은 사람들을 연결하고 협업의 기회를 제공합니다. 
+
+
 🔸 팀원 간 원활한 소통을 위해 채팅과 댓글 기능이 제공되며, 업무와 관련된 변경 사항이나 중요한 업데이트는 실시간 알림을 통해 빠르게 공유됩니다.
 
 
@@ -17,6 +19,8 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache-Tomcat&logoColor=black" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+
+  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
