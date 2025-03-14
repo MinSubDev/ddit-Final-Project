@@ -38,22 +38,23 @@
 ## 📌 Service UI
 
 
-<img src="https://github.com/user-attachments/assets/90683be7-afea-4966-b8d3-ff1fa4cf24f1" width="50%" hight="50%"></img>
-🔹 설명
-
-
-
-<img src="https://github.com/user-attachments/assets/58f8068b-e85a-4b2d-93d4-3eea21e24963" width="50%" hight="50%"></img>
+<img src="https://github.com/user-attachments/assets/90683be7-afea-4966-b8d3-ff1fa4cf24f1" width="70%" hight="70%"></img>
 
 🔹 설명
 
 
 
-<img src="https://github.com/user-attachments/assets/5c8255dc-1ed1-4951-8028-a58e20216881" width="50%" hight="50%"></img>
+<img src="https://github.com/user-attachments/assets/58f8068b-e85a-4b2d-93d4-3eea21e24963" width="70%" hight="70%"></img>
 
 🔹 설명
 
-<img src="https://github.com/user-attachments/assets/4baaf8f5-3898-4239-9860-128888cc6a8c" width="50%" hight="50%"></img>
+
+
+<img src="https://github.com/user-attachments/assets/5c8255dc-1ed1-4951-8028-a58e20216881" width="70%" hight="50%"></img>
+
+🔹 설명
+
+<img src="https://github.com/user-attachments/assets/4baaf8f5-3898-4239-9860-128888cc6a8c" width="70%" hight="70%"></img>
 
 🔹 설명
 
@@ -62,7 +63,7 @@
 ## 📊 ERD Design
 
 
-<img src="https://github.com/user-attachments/assets/f9988460-4126-44d7-aedd-ddab7755994f" width="50%" hight="50%"></img>
+<img src="https://github.com/user-attachments/assets/f9988460-4126-44d7-aedd-ddab7755994f" width="70%" hight="70%"></img>
 
 
 
