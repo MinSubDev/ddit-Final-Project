@@ -41,7 +41,7 @@
 
 ## 🔄 ERD Design
 
-<img src="https://github.com/user-attachments/assets/3d89f925-ebd9-4e45-bb37-e0b71fadf931/image.png" alt="ERD 디자인" width="80%">
+<img src="./image.png" alt="ERD 디자인" width="80%">
 
 
 
