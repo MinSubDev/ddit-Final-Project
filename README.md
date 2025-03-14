@@ -42,20 +42,23 @@
 🔹 회원들의 메인 페이지 입니다. 참여한 프로젝트 리스트를 볼 수 있습니다.
 <br>
 
+
 <img src="https://github.com/user-attachments/assets/5c8255dc-1ed1-4951-8028-a58e20216881" width="70%" hight="30%"></img>
 
-🔹 구현한 기능 1 : 프로젝트 관리자가 프로젝트에 지원한 사람을 볼 수 있는 목록입니다.
-<br>
+🔹 구현한 기능 1 : 프로젝트 지원자 상세페이지(채용,미채용,면접날짜 지정) 페이지입니다
 
+<br>
 <img src="https://github.com/user-attachments/assets/4baaf8f5-3898-4239-9860-128888cc6a8c" width="70%" hight="70%"></img>
 
-🔹 구현한 기능 2 : 프로젝트에서 초대 받은 목록입니다.
+🔹 구현한 기능 2 : 프로젝트에서 초대 (수락,거절)온 페이지입니다.
 <br>
+
 
 <img src="https://github.com/user-attachments/assets/58f8068b-e85a-4b2d-93d4-3eea21e24963" width="70%" hight="70%"></img>
 
-🔹 구현한 기능 3 : 게시글에서 댓글,대댓글을 작성하는 페이지입니다.
+🔹 구현한 기능 3 : 게시글에서 댓글,대댓글을 작성 페이지입니다.
 <br>
+
 
 <img src="https://github.com/user-attachments/assets/90683be7-afea-4966-b8d3-ff1fa4cf24f1" width="70%" hight="70%"></img>
 
