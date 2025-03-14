@@ -36,37 +36,54 @@
 ---
 
 ## 📌 Service UI
-<br>
-<img src="https://github.com/user-attachments/assets/9176f446-9545-4585-a433-956e6e471beb" width="70%" hight="70%"></img>
+
+<img src="https://github.com/user-attachments/assets/9176f446-9545-4585-a433-956e6e471beb" width="70%" height="70%"></img>
+
+<br><br>
 
 🔹 회원들의 메인 페이지 입니다. 참여한 프로젝트 리스트를 볼 수 있습니다.
 
+<br><br>
 
+<img src="https://github.com/user-attachments/assets/5c8255dc-1ed1-4951-8028-a58e20216881" width="70%" height="30%"></img>
 
-<img src="https://github.com/user-attachments/assets/5c8255dc-1ed1-4951-8028-a58e20216881" width="70%" hight="30%"></img>
+<br><br>
 
 🔹 구현한 기능 1 : 프로젝트 지원자 상세페이지(채용,미채용,면접날짜 지정) 페이지입니다
 
+<br><br>
 
-<img src="https://github.com/user-attachments/assets/4baaf8f5-3898-4239-9860-128888cc6a8c" width="70%" hight="70%"></img>
+<img src="https://github.com/user-attachments/assets/4baaf8f5-3898-4239-9860-128888cc6a8c" width="70%" height="70%"></img>
+
+<br><br>
 
 🔹 구현한 기능 2 : 프로젝트에서 초대 (수락,거절)온 페이지입니다.
 
+<br><br>
 
+<img src="https://github.com/user-attachments/assets/58f8068b-e85a-4b2d-93d4-3eea21e24963" width="70%" height="70%"></img>
 
-<img src="https://github.com/user-attachments/assets/58f8068b-e85a-4b2d-93d4-3eea21e24963" width="70%" hight="70%"></img>
+<br><br>
 
-🔹 구현한 기능 3 : 게시글에서 댓글,대댓글을 작성 페이지입니다.
+🔹 구현한 기능 3 : 게시글에서 댓글, 대댓글을 작성하는 페이지입니다.
 
+<br><br>
 
-<img src="https://github.com/user-attachments/assets/90683be7-afea-4966-b8d3-ff1fa4cf24f1" width="70%" hight="70%"></img>
+<img src="https://github.com/user-attachments/assets/90683be7-afea-4966-b8d3-ff1fa4cf24f1" width="70%" height="70%"></img>
+
+<br><br>
 
 🔹 구현한 기능 4 : 관리자가 볼 수 있는 회원의 상세목록입니다.
 
+<br><br>
 
 ## 📊 ERD Design
 
-
-<img src="https://github.com/user-attachments/assets/f9988460-4126-44d7-aedd-ddab7755994f" width="70%" hight="70%"></img>
 <br>
+
+<img src="https://github.com/user-attachments/assets/f9988460-4126-44d7-aedd-ddab7755994f" width="70%" height="70%"></img>
+
+<br><br>
+
 🔹 테이블 개수 : 총 60개
+
