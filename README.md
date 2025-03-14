@@ -39,7 +39,7 @@
 
 
 
-<img src="./image.png" alt="서비스 UI" width="80%">
+![Image](https://github.com/user-attachments/assets/4baaf8f5-3898-4239-9860-128888cc6a8c)
 
 🔹 설명
 
