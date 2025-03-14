@@ -37,7 +37,7 @@
 
 ## 📌 Service UI
 
-### 학생 사용자 메인 페이지
+
 
 <img src="./image.png" alt="서비스 UI" width="80%">
 
@@ -45,7 +45,7 @@
 
 
 
-## 🔄 ERD Design
+## 📊 ERD Design
 
 <img src="./image.png" alt="ERD 디자인" width="80%">
 
