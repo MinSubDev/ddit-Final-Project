@@ -36,7 +36,8 @@
 ---
 
 ## 📌 Service UI
-
+<p></p>
+<p></p>
 
 <img src="https://github.com/user-attachments/assets/90683be7-afea-4966-b8d3-ff1fa4cf24f1" width="70%" hight="70%"></img>
 
@@ -50,7 +51,7 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/5c8255dc-1ed1-4951-8028-a58e20216881" width="70%" hight="50%"></img>
+<img src="https://github.com/user-attachments/assets/5c8255dc-1ed1-4951-8028-a58e20216881" width="70%" hight="30%"></img>
 
 🔹 설명
 
