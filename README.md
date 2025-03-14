@@ -1,27 +1,42 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c72ce,100:13c377&height=180&text=Final%20Project&animation=twinkling&fontColor=000000&fontSize=60" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 열정적인 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 열정적인 개발자로서,</li>혁신적인 아이디어와 뛰어난 기술력을 </li>바탕으로 성과를 위해 노력하겠습니다 </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-          </div>
-    </div>
-    <div align= "center"> 
-   
-    
+# Final Project
+
+## Final Project in DDIT  【 Project Mapper (프로젝트 관리 시스템) 】 Introduction 
+
+🔸 ‘Project Mapper’는 프로젝트 관리, 탐색, 아웃소싱 기능을 제공하는 통합서비스입니다. 이 서비스는 단순히 프로젝트를 관리하는 것을 넘어, 다양한 분야에서 프로젝트에 참여하고 싶은 사람들을 연결하고 협업의 기회를 제공합니다. 
+🔸 팀원 간 원활한 소통을 위해 채팅과 댓글 기능이 제공되며, 업무와 관련된 변경 사항이나 중요한 업데이트는 실시간 알림을 통해 빠르게 공유됩니다.
+🔸 프로젝트 진행 중 발생하는 이슈를 별도로 관리하여 업무의 흐름이 끊기지 않도록 설계하였습니다
+
+---
+
+## 🚀 Tech Stacks
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache-Tomcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" />
+</p>
+
+---
+
+## 📌 Service UI
+
+### 학생 사용자 메인 페이지
+
+<img src="./image.png" alt="서비스 UI" width="80%">
+
+🔹 설명
+
+
+
+## 🔄 ERD Design
+
+<img src="./image.png" alt="ERD 디자인" width="80%">
+
+
+🔹 테이블 개수 : 총 74개
