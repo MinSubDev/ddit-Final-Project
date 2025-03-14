@@ -51,8 +51,8 @@
 
 🔹 설명
 
+<img src="https://github.com/user-attachments/assets/4baaf8f5-3898-4239-9860-128888cc6a8c.png  width="200" height="400"/>
 
-![Image](https://github.com/user-attachments/assets/4baaf8f5-3898-4239-9860-128888cc6a8c)
 
 🔹 설명
 
