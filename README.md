@@ -52,7 +52,7 @@
 🔹 설명
 
 ![Image](https://github.com/user-attachments/assets/4baaf8f5-3898-4239-9860-128888cc6a8c)
-
+<img src="https://github.com/user-attachments/assets/4baaf8f5-3898-4239-9860-128888cc6a8c" width="90%"></img>
 
 🔹 설명
 
