@@ -1,6 +1,10 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=FinalProject&animation=&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=FinalProject&animation=twinkling&fontColor=000000&fontSize=50" />
     </div>
+
+
+    
+
     
 ## Final Project in DDIT ✨Project Mapper (프로젝트 관리 시스템)✨ Introduction 
 <p>
