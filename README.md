@@ -1,5 +1,7 @@
-# Final Project
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=FinalProject&animation=&fontColor=000000&fontSize=50" />
+    </div>
+    
 ## Final Project in DDIT ✨Project Mapper (프로젝트 관리 시스템)✨ Introduction 
 <p>
 🔸 ‘Project Mapper’는 프로젝트 관리, 탐색, 아웃소싱 기능을 제공하는 통합서비스입니다. 이 서비스는 단순히 프로젝트를 관리하는 것을 넘어, 다양한 분야에서 프로젝트에 참여하고 싶은 사람들을 연결하고 협업의 기회를 제공합니다. 
