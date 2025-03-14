@@ -61,7 +61,7 @@
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/58f8068b-e85a-4b2d-93d4-3eea21e24963" width="70%" height="70%"></img>
+<img src="https://github.com/user-attachments/assets/58f8068b-e85a-4b2d-93d4-3eea21e24963" width="70%" height="100%"></img>
 
 <br>
 
@@ -83,7 +83,7 @@
 
 <img src="https://github.com/user-attachments/assets/f9988460-4126-44d7-aedd-ddab7755994f" width="70%" height="70%"></img>
 
-<br><br>
+<br>
 
 🔹 테이블 개수 : 총 60개
 
