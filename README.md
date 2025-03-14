@@ -47,7 +47,7 @@
 
 ## 📊 ERD Design
 
-<img src="[C:\Users\sub75\Desktop\대덕인재개발원\최프\ERD.png](https://github.com/MinSubDev/ddit-finalProject/issues/1#issue-2920707794)"/image.png" alt="ERD 디자인" width="80%">
+![Image](https://github.com/user-attachments/assets/f9988460-4126-44d7-aedd-ddab7755994f)
 
 
 
